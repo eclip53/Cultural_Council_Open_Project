@@ -8,6 +8,8 @@ A complete recommendation engine built on the Netflix Prize dataset, covering ED
 
 ```
 netflix_rec/
+├── Technical Report
+├── Presentation
 ├── README.md
 ├── requirements.txt
 ├── src/
